@@ -18,6 +18,6 @@ public class MusibaseApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception{
-		System.out.println("taste");
+		System.out.println("teste");
 	}
 }
