@@ -2,9 +2,9 @@ package com.Musibase.Musibase.model;
 
 import jakarta.persistence.*;
 
-
+//TESTE BANCO DE DADOS
 @Entity
-@Table(name = "artistas ")
+@Table(name = "artistas")
 public class Artista {
 
     @Id

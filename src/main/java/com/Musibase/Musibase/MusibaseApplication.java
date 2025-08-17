@@ -9,8 +9,9 @@ import org.springframework.boot.web.codec.CodecCustomizer;
 @SpringBootApplication
 public class MusibaseApplication implements CommandLineRunner {
 
-//teste
 
+
+	
 	public static void main(String[] args) {
 		SpringApplication.run(MusibaseApplication.class, args);
 
